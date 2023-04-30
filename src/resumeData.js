@@ -59,7 +59,7 @@ let resumeData = {
         "Amélioration continue du système  J'ai effectué des améliorations continues de l'application web et du tableau de bord de BI en fonction des besoins des utilisateurs. J'ai apporté des modifications pour optimiser les performances, améliorer l'expérience utilisateur et ajouter de nouvelles fonctionnalités.",
       ],
       competence:
-        "Compétences: React Js , Node Js , NestJS  , Swagger ,MongoDB , Microsoft Excel , SSIS (SQL Server Integration Services) , Power BI",
+        "Compétences: React Js · Node Js · NestJS  · Swagger · MongoDB · Microsoft Excel · SSIS (SQL Server Integration Services) · Power BI",
     },
     {
       CompanyName: "L'agence de votre transformation degitale · Stage",
@@ -67,8 +67,9 @@ let resumeData = {
       MonthOfLeaving: "juin 2022 - juil. 2022 · 2 Mois",
       YearOfLeaving: "",
       Achievements:
-        "Développement d'une partie d'applications d'aide à la décision de l'irrigation intelligente.",
-      competence: "Compétences: JavaScript",
+        "Développement d'une partie d'applications d'aide à la décision j'ai utilisé comme framework Express.js Implantation de l'architecture MVC Création et consommation des API REST Développement des interfaces responsives Participation à la conception",
+      competence:
+        "Compétences: CSS · Express.js · Node.js · React.js · JavaScript · MongoDB",
     },
   ],
   skillsDescription: "",
@@ -128,16 +129,19 @@ let resumeData = {
       name: "project1",
       description: "mobileapp",
       imgurl: "images/Capture dx.png",
+      urll: "https://github.com/GhassenDemni/Books",
     },
     {
       name: "project2",
       description: "mobileapp",
       imgurl: "images/capbookkk.png",
+      urll: "https://github.com/GhassenDemni/Books",
     },
     {
       name: "project3",
-      description: "mobileapp",
+      description: "Restau",
       imgurl: "images/rest.png",
+      urll: "https://github.com/GhassenDemni/restau",
     },
   ],
   testimonials: [
